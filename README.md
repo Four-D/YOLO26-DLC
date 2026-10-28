@@ -19,7 +19,7 @@
 
 ## 2. 环境依赖
 
-- Python 3.13（开发环境：`C:\Users\eccom\AppData\Local\Programs\Python\Python313\python.exe`）
+- Python 3.13（开发环境：`~\Python\Python313\python.exe`）
 - PyTorch（含 CUDA 支持）
 - opencv-python
 - numpy
